@@ -1,0 +1,1 @@
+Repositório para a matéria de Arquitetura e Projeto de Software, lecionada pelo professor Marco Antônio Araújo.
