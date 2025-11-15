@@ -8,7 +8,7 @@ public class Pedido {
 
     public Pedido(double valor) {
         this.valor = valor;
-        this.estado = PedidoEstadoCancelado.getInstance();
+        this.estado = PedidoEstadoSelecionado.getInstance();
     }
 
     public PedidoEstado getEstado() {
